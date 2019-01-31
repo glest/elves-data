@@ -9,11 +9,8 @@ Credits: gAMeboy [Mod Creator/Development 0-0.8]
 	 MirceaKitsune [Development 0.8-0.96]
 	 Battle For Wesnoth [Music]
 
-	 With modifications by the ZetaGlest Team
+	 With modifications by the Glest Team
 
 ------------------
-
-This mod also include faction links to the Persians and Magic faction
-<https://github.com/ZetaGlest/zetaglest-data/tree/develop/techs/zetapack/factions>
 
 LICENSE:CC-Attribution-ShareAlike 3.0 Unported
